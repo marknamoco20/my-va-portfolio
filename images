@@ -1,0 +1,14 @@
+my-va-portfolio/
+│
+├── index.html
+├── style.css
+├── resume.pdf
+│
+├── images/
+│   ├── profile.jpg
+│   └── profile1.jpg
+│   └── profile2.jpg
+│
+└── videos/
+    └── ai-ugc-ad.mp4
+    └──ai-lifestyle-com.mp4
